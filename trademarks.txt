@@ -1,3 +1,0 @@
-MATLAB and Simulink are registered trademarks of The MathWorks, Inc.  
-Please see www.mathworks.com/trademarks for a list of additional trademarks.
-Other product or brand names may be trademarks or registered trademarks of their respective holders.
