@@ -18,6 +18,8 @@ The aim of this project is to build a VGG16 model that can detect the area of da
 Assignment 😇
 
 
+
+
 Assignment 1
 
 
@@ -30,6 +32,8 @@ Assignment 3
  
 
 PROJECT DESIGN & PLANNING 😇
+
+
 
 
 Ideation Phase
@@ -52,6 +56,8 @@ Problem Statement
 Project design Phase - 1
 
 
+
+
 Problem_solution_fit
 
 
@@ -64,6 +70,8 @@ Solution Architecture
 
 
 Project design Phase - 2
+
+
 
 
 Customer Journey
