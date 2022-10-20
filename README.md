@@ -19,32 +19,62 @@ Assignment 😇
 
 
 Assignment 1
+
+
 Assignment 2
+
+
 Assignment 3
+
+
  
 
 PROJECT DESIGN & PLANNING 😇
 
 
 Ideation Phase
+
+
 Empathy Map
+
+
 Brainstrom
+
+
 Literature Survey
+
+
 Problem Statement
+
+
 
 
 Project design Phase - 1
 
 
 Problem_solution_fit
+
+
 Proposed Solution
+
+
 Solution Architecture
+
+
 
 
 Project design Phase - 2
 
 
 Customer Journey
+
+
 Technology Architecture
+
+
 Dataflow Diagram
+
+
 Functional Requirements
+
+
